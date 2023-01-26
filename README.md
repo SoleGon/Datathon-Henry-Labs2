@@ -31,6 +31,7 @@ En el repositorio se encuentran tambien los archivos csv con las predicciones de
  - "Regresion_Logistica" . [Enlace] https://github.com/SoleGon/Datathon-Henry-Labs2/blob/main/Modelo_Regresion_Logistica.csv
  - "KNeigborsClassifier" [Enlace] https://github.com/SoleGon/Datathon-Henry-Labs2/blob/main/Modelo_Knn.csv
  - "Kmeans"- No supervisado [Enlace] https://github.com/SoleGon/Datathon-Henry-Labs2/blob/main/Modelo_No_supervisado.csv
+ -  Tambien para cualquier consulta, se encuentra el csv con el set de entrenamiento ya con Eda implementado [Enlace] https://github.com/SoleGon/Datathon-Henry-Labs2/blob/main/train_con_eda
 
 # Nota
 

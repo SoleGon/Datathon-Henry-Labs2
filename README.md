@@ -13,18 +13,24 @@ La actividad consiste en elaborar un modelo que prediga  si una propiedad inmobi
   A continuación se detalla el contenido de éste repositorio, con el enlace que los remite:
   
   
-  - En el primer archivo "Eda" se encuentra el desarrollo del código comentado de la exploración y análisis de los datos provistos, en detalle : 
+  - En el primer archivo "Eda" se encuentra el desarrollo del código comentado de la exploración y análisis de los datos provistos, en detalle : [Enlace]                   https://github.com/SoleGon/Datathon-Henry-Labs2/blob/main/EDA.ipynb
   - En el segundo archivo "Modelo_DTC, se continúa con el análisis del paso anterior y se desarrolla el primer modelo "DecisionTreeClassifier", el código y 
-    desarrollo se encuentra comentado: 
-  - En el tercer archivo "Pruebas_con_train", podrán visualizar el análisis en detalle del mismo modelo implementado en el paso anterior (DTC) pero en el  set de             entrenamiento, con sus respectivas metricas, que sirvieron de base para el desarrollo de modelos posteriores: 
-  - En archivo "Modelo_Regresion_Logistica", observarán el código comentado del modelo de maching learning de regresion logística desarrollado:
-  - El archivo "Modelo_Knn" contiene el desarrollo del modelo KNeighborsClassifier, donde se implementa una optimización de hiperparámetros con una grilla para random       search (codigo comentado):
-  - El archivo "No-Supervisado" contiene el modelo Kmeans, su código comentado y desarrollo: 
+    desarrollo se encuentra comentado: [Enlace] https://github.com/SoleGon/Datathon-Henry-Labs2/blob/main/Modelo_DTC.ipynb
+  - En el tercer archivo "Pruebas_con_train", podrán visualizar el análisis en detalle del mismo modelo implementado en el paso anterior (DTC) pero en el  set de             entrenamiento, con sus respectivas metricas, que sirvieron de base para el desarrollo de modelos posteriores: [Enlace] https://github.com/SoleGon/Datathon-Henry-Labs2/blob/main/Pruebas_con_train.ipynb
+  - En archivo "Modelo_Regresion_Logistica", observarán el código comentado del modelo de maching learning de regresion logística desarrollado: [Enlace] 
+    https://github.com/SoleGon/Datathon-Henry-Labs2/blob/main/Modelo_Regresion_Logistica.ipynb
+  - El archivo "Modelo_Knn" contiene el desarrollo del modelo KNeighborsClassifier, donde se implementa una optimización de hiperparámetros con una grilla para random       search (codigo comentado):[Enlace] https://github.com/SoleGon/Datathon-Henry-Labs2/blob/main/Modelo_Knn.ipynb
+  - El archivo "No-Supervisado" contiene el modelo Kmeans, su código comentado y desarrollo: [Enlace] https://github.com/SoleGon/Datathon-Henry-Labs2/blob/main/No-supervisado.ipynb
 
 
 # Archivos CSV
 
 En el repositorio se encuentran tambien los archivos csv con las predicciones de cada modelo, con su nombre para mejor identificacion. Ademas podrán encontrar el archivo "train_con_eda", que contiene el archivo train luego del EDA.
+
+ - "DecisionTreeClassifier" . [Enlace] https://github.com/SoleGon/Datathon-Henry-Labs2/blob/main/Modelo_DTC.csv
+ - "Regresion_Logistica" . [Enlace] https://github.com/SoleGon/Datathon-Henry-Labs2/blob/main/Modelo_Regresion_Logistica.csv
+ - "KNeigborsClassifier" [Enlace] https://github.com/SoleGon/Datathon-Henry-Labs2/blob/main/Modelo_Knn.csv
+ - "Kmeans"- No supervisado [Enlace] https://github.com/SoleGon/Datathon-Henry-Labs2/blob/main/Modelo_No_supervisado.csv
 
 # Nota
 
